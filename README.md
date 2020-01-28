@@ -23,3 +23,6 @@ After changing parameteres, press `Render` button to see the results. To save fr
 Example of generated 10000x10000 image of fractal:
 
 ![](https://i.redd.it/r563uzyx8bv31.png)
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
